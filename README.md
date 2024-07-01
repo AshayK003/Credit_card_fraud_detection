@@ -10,9 +10,8 @@ This project aims to detect fraudulent credit card transactions using machine le
 4. [Dataset Information](#dataset-information)
 5. [Methodology](#methodology)
 6. [Results and Evaluation](#results-and-evaluation)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Contact Information](#contact-information)
+7. [License](#license)
+
 
 ## Installation and Dependencies
 
