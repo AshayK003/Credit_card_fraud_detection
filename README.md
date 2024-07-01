@@ -85,7 +85,6 @@ The project follows these steps:
 3. **Model Training:**
     - Split the data into training and testing sets.
     - Train various machine learning models (e.g., Logistic Regression, Naive Bayes , Descision tree, etc).
-    - Perform hyperparameter tuning.
 
 4. **Model Evaluation:**
     - Evaluate the models by their traing and testing accuracy score.
