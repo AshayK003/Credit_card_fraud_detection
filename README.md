@@ -84,11 +84,11 @@ The project follows these steps:
 
 3. **Model Training:**
     - Split the data into training and testing sets.
-    - Train various machine learning models (e.g., Logistic Regression, Random Forest, XGBoost).
+    - Train various machine learning models (e.g., Logistic Regression, Naive Bayes , Descision tree, etc).
     - Perform hyperparameter tuning.
 
 4. **Model Evaluation:**
-    - Evaluate the models using appropriate metrics (e.g., precision, recall, F1-score, ROC-AUC).
+    - Evaluate the models by their traing and testing accuracy score.
     - Compare the performance of different models.
 
 5. **Model Deployment:**
